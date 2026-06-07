@@ -44,9 +44,10 @@
 
 ### 📈 Статистика
 
-![Статистика GuttierFN](https://github-readme-stats.vercel.app/api?username=GuttierFN&show_icons=true&theme=neutral&hide_border=true)
-
-![Топ языков GuttierFN](https://github-readme-stats.vercel.app/api/top-langs/?username=GuttierFN&layout=compact&theme=neutral&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuttierFN&theme=neutral" alt="Профиль GuttierFN" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=GuttierFN&theme=neutral" alt="Языки GuttierFN" width="48%" />
+</p>
 
 ---
 
