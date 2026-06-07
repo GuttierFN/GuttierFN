@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Привет, я Алекс (GuttierFN)! 👋</h1>
 
-<!--
-**GuttierFN/GuttierFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Middle+ Java Разработчик | Студент МТУСИ</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Мне 20 лет, и я специализируюсь на создании масштабируемых backend-сервисов и микросервисной архитектуре. Увлекаюсь алгоритмами, оптимизацией производительности и интеграцией AI в реальные продукты.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Обо мне
+
+*   🎓 Студент **МТУСИ** (Московский технический университет связи и информатики).
+*   💻 Сейчас активно разрабатываю backend для проекта **RuTrip**, внедряя AI-рекомендации.
+*   ⚙️ Основной стек: **Java (JDK 17+)**, **Spring Boot**, **Maven**.
+*   🚀 Практикую DevOps: автоматизирую деплой и тесты с **GitHub Actions**, контейнеризирую приложения в **Docker**.
+*   ⚡ В свободное время: тренируюсь дома и смотрю «Магическую битву».
+
+---
+
+### 🛠 Технический стек и инструменты
+
+**Основной язык и фреймворк:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+</p>
+
+**Инфраструктура и DevOps:**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+**Инструменты сборки и БД:**
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+### 📈 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuttierFN&show_icons=true&theme=radical&hide_border=true" alt="Статистика GuttierFN" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuttierFN&theme=radical&hide_border=true" alt="Стрик GuttierFN" width="48%" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+
+Буду рад обсудить код, архитектуру или новые проекты!
+
+*   **Telegram:** [@твой_юзернейм](https://t.me/твой_юзернейм)
+*   **Email:** [твой_email@example.com](mailto:твой_email@example.com)
+*   **LinkedIn:** [Александр Гутиеррес](https://linkedin.com/in/твоя_ссылка)
+```http://googleusercontent.com/image_generation_content/188
