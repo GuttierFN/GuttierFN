@@ -11,10 +11,9 @@
 ### 👨‍💻 Обо мне
 
 *   🎓 Студент **МТУСИ** (Московский технический университет связи и информатики).
-*   💻 Сейчас активно разрабатываю backend для проекта **RuTrip**, внедряя AI-рекомендации.
-*   ⚙️ Основной стек: **Java (JDK 17+)**, **Spring Boot**, **Maven**.
+*   ⚙️ Основной стек: **Java**, **Spring Boot**, **Maven**.
 *   🚀 Практикую DevOps: автоматизирую деплой и тесты с **GitHub Actions**, контейнеризирую приложения в **Docker**.
-*   ⚡ В свободное время: тренируюсь дома и смотрю «Магическую битву».
+*   ⚡ В свободное время: занимаюсь спортом и потихоньку развиваюсь как разработчик.
 
 ---
 
@@ -54,7 +53,23 @@
 
 Буду рад обсудить код, архитектуру или новые проекты!
 
-*   **Telegram:** [@твой_юзернейм](https://t.me/твой_юзернейм)
-*   **Email:** [твой_email@example.com](mailto:твой_email@example.com)
-*   **LinkedIn:** [Александр Гутиеррес](https://linkedin.com/in/твоя_ссылка)
-```http://googleusercontent.com/image_generation_content/188
+*   **Telegram:** [@твой_юзернейм](https://t.me/GKA_Guttier)
+*   **Email:** [твой_email@example.com](mailto:alexgc191205@gmail.com)
+
+### 📈 Моя активность и статистика
+
+<!-- Линейный график активности (коммиты, пулы, ишью) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuttierFN&theme=radical&hide_border=true&bg_color=141321" alt="График активности GuttierFN" width="100%" />
+</p>
+
+<!-- Базовая статистика и Топ языков -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuttierFN&show_icons=true&theme=radical&hide_border=true" alt="Статистика GuttierFN" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuttierFN&layout=compact&theme=radical&hide_border=true" alt="Топ языков GuttierFN" width="48%" />
+</p>
+
+<!-- Стрик (непрерывная активность) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuttierFN&theme=radical&hide_border=true" alt="Стрик GuttierFN" width="100%" />
+</p>
