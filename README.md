@@ -45,8 +45,16 @@
 ### 📈 Статистика
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuttierFN&theme=neutral" alt="Профиль GuttierFN" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=GuttierFN&theme=neutral" alt="Языки GuttierFN" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GuttierFN&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuttierFN&layout=compact&hide_border=true"
+    alt="Top Languages"
+    width="49%"
+  />
 </p>
 
 ---
